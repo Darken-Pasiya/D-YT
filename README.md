@@ -9,10 +9,10 @@
 
 ## ៚ Features ࿐
 ---
-###  You Can Download Youtube Video MP4 
-###  You Can Download Youtube Video MP3 
-###  You Can Download Facebook Video 
-###  You Can Download Thumbnail From URL
+### ⍢ You Can Download Youtube Video MP4 
+### ⍢ You Can Download Youtube Video MP3 
+### ⍢ You Can Download Facebook Video 
+### ⍢ You Can Download Thumbnail From URL
 
 <p>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
@@ -31,6 +31,9 @@
 
 ᐵ `python D-YT.py`
 
+<p>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
+
 
 ## ☬ Contact ༆
 
@@ -40,3 +43,5 @@
 
 [![Instagram](https://img.shields.io/badge/WHATSAPP-Message-brightgreen?style=for-the-badge&logo=whatsapp)](https://Darken-Pasiya.WhatsApp@is.gd/XSaMMp)
 
+<p>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
